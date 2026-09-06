@@ -63,9 +63,9 @@
     background-color: transparent;
 }
 
+/* personal preference */
 .fs-modal-module-header {
-    background: rgb(4 4 9 / 80%) !important;
-    border-radius: 18px;
+    background: transparent !important;
 }
 
 .fs-select-module-dropdown,
